@@ -1,4 +1,4 @@
-
+/*global ReadAlong */
 window.addEventListener('load', function (e) {
     try {
         var args = {
